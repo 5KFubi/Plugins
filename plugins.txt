@@ -1,2 +1,2 @@
-baseraiders:1.0
+baseraiders:2.0.1
 raidcore:1.0
